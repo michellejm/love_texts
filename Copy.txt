@@ -1,0 +1,28 @@
+The Love Texts
+
+This app uses text analysis to help you spot patterns in your conversations. After uploading the messages from the conversation you are interested in, your messages will be analyzed for patterns in volume, frequency, and style. This project is part of a larger study to understand how we establish trust and intimacy through text messaging.
+
+
+After uploading your conversation, your messages will be analyzed for patterns in writing style, frequency, timing, and volume. This project is part of a larger study to understand the role of text messaging in establishing trust and intimacy.
+
+About Love Texts
+
+Text messaging is integrated into modern life, and across the globe, texters send billions of messages every day. Regardless if we think that texting is good or bad for society at large, the reality is that we form and maintain our relationships through texting. Our experience tells us (and researchers have found) that the way that someone texts is just as important as what they say. By stepping back and looking at texting patterns rather than individual messages, we see these patterns emerge. In a conversation, is someone always faster to respond? Does one person write very long messages and the other write more short messages? Do you text a lot during the week but never on the weekend? Who starts the conversation and who ends it?
+
+By contributing your messages to this project, you will gain insights into your conversational patterns and further research on text messaging.  
+
+Your data will be combined with millions of other messages to answer the following questions:
+1. Are there age or gender differences in:
+	1. Texting frequency
+	2. Texting volume
+	3. Laughter particles
+	4. Degree of formality
+2. What role do textisms, emojis, emoticons an punctuation play in texting?
+3. How do texters express social closeness through text messaging?
+4. Does geographic distance make any difference in frequency or volume of text messaging?
+
+The research is based in the Center for Spatial Research at Columbia University and is approved by IRB #XXXXX. While you will receive your graphs today, data collection is scheduled to conclude on December 31, 2017. 
+
+After uploading your messages, they will be kept on an encrypted, password protected drive, and will never be made public. The results from message analysis will be published and any names or identifying information will be changed to ensure privacy. 
+
+
